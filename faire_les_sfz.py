@@ -1,7 +1,7 @@
 #   Nom ......... : fredOnGithub
 #   Role ........ : MAKE-SFZ-FILES-FOR-WAVS-SEQUENCE-SYNTH-LIBRARY
 #   Auteur ...... : fredOnGithub
-#   Version ..... : V2 du 26/8/2021
+#   Version ..... : V1 du 03/04/2022
 #   Licence ..... : GPL-3.0 License
 #   Compilation :___
 
